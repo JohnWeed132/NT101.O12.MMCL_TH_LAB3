@@ -1,0 +1,14 @@
+D:\Bai\HKV\AnToanMang\ThucHanh\lab3\LAB3\bin\Debug\LAB3.exe.config
+D:\Bai\HKV\AnToanMang\ThucHanh\lab3\LAB3\bin\Debug\LAB3.exe
+D:\Bai\HKV\AnToanMang\ThucHanh\lab3\LAB3\bin\Debug\LAB3.pdb
+D:\Bai\HKV\AnToanMang\ThucHanh\lab3\LAB3\obj\Debug\LAB3.csproj.AssemblyReference.cache
+D:\Bai\HKV\AnToanMang\ThucHanh\lab3\LAB3\obj\Debug\LAB3.Form1.resources
+D:\Bai\HKV\AnToanMang\ThucHanh\lab3\LAB3\obj\Debug\LAB3.Properties.Resources.resources
+D:\Bai\HKV\AnToanMang\ThucHanh\lab3\LAB3\obj\Debug\LAB3.csproj.GenerateResource.cache
+D:\Bai\HKV\AnToanMang\ThucHanh\lab3\LAB3\obj\Debug\LAB3.csproj.CoreCompileInputs.cache
+D:\Bai\HKV\AnToanMang\ThucHanh\lab3\LAB3\obj\Debug\LAB3.exe
+D:\Bai\HKV\AnToanMang\ThucHanh\lab3\LAB3\obj\Debug\LAB3.pdb
+D:\Bai\HKV\AnToanMang\ThucHanh\lab3\LAB3\obj\Debug\LAB3.FormprocessingScreen.resources
+D:\Bai\HKV\AnToanMang\ThucHanh\lab3\LAB3\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Bai\HKV\AnToanMang\ThucHanh\lab3\LAB3\obj\Debug\LAB3.csproj.Fody.CopyLocal.cache
+D:\Bai\HKV\AnToanMang\ThucHanh\lab3\LAB3\obj\Debug\LAB3.csproj.CopyComplete
